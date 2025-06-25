@@ -1,4 +1,4 @@
-# FinAI1
+# FinAI
 
 Personal Business Investment Assistant that delivers daily investment ideas with medium-risk based on market trends, news sentiment, and digital asset scanning.
 
