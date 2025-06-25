@@ -1,0 +1,7 @@
+yfinance
+httpx
+pandas
+SQLAlchemy
+jinja2
+python-dotenv
+textblob

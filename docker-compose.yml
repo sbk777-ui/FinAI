@@ -1,0 +1,9 @@
+version: '3'
+services:
+  finai:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python main.py
